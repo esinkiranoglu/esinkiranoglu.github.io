@@ -1,5 +1,6 @@
    html
    {
+     top: 1;
 	/* background-image: url('bckgrnd.jpg'); */
 	background-repeat: no-repeat;
    background-size: tile;
@@ -7,6 +8,12 @@
 	background-origin: content-box;
    }	
    
+.sticky {
+  position: fixed;
+  top: 1;
+  width: 100%
+}
+
   h1
   {
   font-family: Crimson Pro;
@@ -47,6 +54,12 @@
 {
 	position: relative;
 	Margin-left: 220px;
+}
+
+.quicknav
+{
+  position: relative;
+  margin-left: 20px;
 }
 
 .lhsdate
@@ -147,9 +160,8 @@ div
   a
   {
 	font-family: Crimson Pro;
-	font-size: 20px;
-	margin-left: 25px;
-	margin-right: 25px;
+	font-size: 15px;
+	margin-left: 20px;
   }
   italic
   {
