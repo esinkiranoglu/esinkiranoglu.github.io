@@ -1,0 +1,164 @@
+   html
+   {
+	/* background-image: url('bckgrnd.jpg'); */
+	background-repeat: no-repeat;
+   background-size: tile;
+	overflow: scroll;
+	background-origin: content-box;
+   }	
+   
+  h1
+  {
+  font-family: Crimson Pro;
+	color: green;
+	font-size: 45px;
+  }
+
+  h2
+  {
+  font-family: Crimson Pro;
+  text-decoration: underline;
+  font-size: 25px;
+  margin-left: 20px;
+  }
+
+  h3
+  {
+  font-family: Crimson Pro;
+  color: "green";
+  font-size: 16px;
+  margin-left: 20px;
+  }
+
+.lhspersonaldetails
+{
+	position: absolute;
+  font-weight: bold;
+  Margin-left: 20px;
+}
+
+.mhspersonaldetails
+{
+	position: absolute;
+	margin-left: 200px;
+}
+
+.rhspersonaldetails
+{
+	position: relative;
+	Margin-left: 220px;
+}
+
+.lhsdate
+{
+position: absolute;
+  font-weight: bold;
+  Margin-left: 20px;
+  margin-top: 2px;
+	
+}
+
+.rhseducation
+{
+  margin-left: 220px;
+}
+
+.rhsworkcompany
+{
+  margin-left: 220px;
+  font-weight: bold;
+}
+
+.rhsprojectandscolarshipheader
+{
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.rhsprojectandscolarshiptitle
+{
+  margin-left: 20px;
+}
+
+.rhsworktitle
+{
+  margin-left: 220px;
+  font-weight: normal;
+}
+
+.rhsworkitalic
+{
+  margin-left: 0px;
+  font-style: italic;
+  font-weight: normal;
+  font-family: 
+}
+
+.rhs
+{
+  font-weight:bold;
+  Margin-left: 100px;
+}
+
+
+.cvname
+{
+	margin-left: 20px;
+	font-size: 30px;
+	color: Black
+}
+.cvtitle
+{
+	margin-left: 20px;
+	font-size: 20px;
+	font-weight: normal;
+	font-style: italic;
+	color: GrayText
+}	
+
+.cvpharm
+{	
+	margin-left: 1px;
+	font-size: 18px;
+	color: Crimson;
+}
+
+  span 
+  {
+    font-size: 15px;
+    font-family: Josefin Sans;
+  }
+
+div
+  {
+    font-size: 15px;
+    font-family: Josefin Sans;
+  }
+
+  li
+  {
+    margin-left: 180px;
+    font-size: 14px;
+    font-family: Josefin Sans;
+  }
+
+
+  
+  a
+  {
+	font-family: Crimson Pro;
+	font-size: 20px;
+	margin-left: 25px;
+	margin-right: 25px;
+  }
+  italic
+  {
+  font-style: italic;
+  }
+  form
+  {
+	/*background-color: rgb(50, 115, 220, 0.25);*/
+  }
+  
+
+
